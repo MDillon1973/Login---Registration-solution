@@ -1,0 +1,20 @@
+*{
+  
+    margin: 0 auto;
+    padding: 0;
+}
+.container {
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.alert{
+    text-align: center;
+    color: orangered;
+    background-color: black;
+}
+
+h2{
+    font-family: fantasy;
+}
+
